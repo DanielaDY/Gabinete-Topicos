@@ -1,0 +1,12 @@
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\bin\Debug\TopicosU2-Gabinete.exe.config
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\bin\Debug\TopicosU2-Gabinete.exe
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\bin\Debug\TopicosU2-Gabinete.pdb
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2-Gabinete.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2_Gabinete.Asuntos.resources
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2_Gabinete.Clientes.resources
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2_Gabinete.Procuradores.resources
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2_Gabinete.Properties.Resources.resources
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2-Gabinete.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2-Gabinete.exe
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2-Gabinete.pdb
+C:\Users\Daniela\source\repos\TopicosU2-Gabinete\TopicosU2-Gabinete\obj\Debug\TopicosU2_Gabinete.Menu.resources
